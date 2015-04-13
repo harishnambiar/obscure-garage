@@ -1,2 +1,5 @@
 
-/fun-app/target
+fun-app/target/
+problems/target/
+problems/.settings/
+.settings
